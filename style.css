@@ -1,0 +1,71 @@
+/* Remove a margem padrão da página */
+body {
+    margin: 0;
+
+    /* Centraliza o jogo na tela */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* Faz o jogo ficar no centro verticalmente */
+    min-height: 100vh;
+
+    /* Cor do fundo da página */
+    background-color: #eeeeee;
+}
+
+/* Tela do jogo */
+canvas {
+    width: 800px;
+    height: 300px;
+
+    /* Fundo claro do jogo */
+    background-color: #fafafa;
+
+    /* Borda da tela */
+    border: 2px solid #333;
+}/* Remove a margem padrão da página */
+body {
+    margin: 0;
+
+    /* Centraliza o jogo */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    min-height: 100vh;
+
+    background-color: #eeeeee;
+}
+
+/* Tela do jogo */
+canvas {
+    width: 800px;
+    height: 300px;
+
+    background-color: #fafafa;
+
+    border: 2px solid #333;
+}/* Remove a margem padrão da página */
+body {
+    margin: 0;
+
+    /* Centraliza o jogo */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    min-height: 100vh;
+
+    background-color: #eeeeee;
+}
+
+/* Tela do jogo */
+canvas {
+    width: 800px;
+    height: 300px;
+
+    background-color: #fafafa;
+
+    border: 2px solid #333;
+}
